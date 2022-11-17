@@ -1,0 +1,12 @@
+.form{
+
+
+    background-color: rgb(241, 229, 213);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: 20px;
+ 
+}
